@@ -1,0 +1,6 @@
+inprogress
+media
+*.mp4
+*.sh
+__pycache__
+*.mp3
